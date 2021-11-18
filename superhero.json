@@ -1,8 +1,4 @@
-{
-  "apiName":"AniPoke",
-  "origin":"CDMX",
-  "created":2021,
-  "figures":[
+[
       {
 
       "id": 1,
@@ -30286,4 +30282,3 @@
       }
     }
   ]
-}
